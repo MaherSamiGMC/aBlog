@@ -1,0 +1,8 @@
+
+const Articles=[{title:"The Seven Best Admin Templates And Themes in React",
+description :"The appearance of Node.js became the new era for JavaScript because of the opportunity to synchronize frontend and backend. All JavaScript programs with help of Node.js can be executed on the server. It is well-known that Node.js is part of MERN and MEAN and is a stacks technology made with JavaScript – so, it has high potential.The goal of this article is to present to you the best admin templates built with Node.js and React.js, which are both in MERN stack. Speaking of Node.js we need to mention also NPM, which is an extensive package base for source modules and ready-made packages. NPM has regular support from the community of Node.JS and it encourages users to add new packages. This is the reason why you can find solutions to all issues...."
+},{title:"Reasons To Consider React Native For Your Next Mobile Application Development",
+description :"In 2019, people around the world downloaded 204 billion mobile apps. In July 2020, 121.8 thousand mobile apps got released on Google Play alone.In this ever-expanding world of mobile apps, React Native has been the buzzword for some years now. In 2019 and 2020, React Native app development dominated the cross-platform mobile framework usage at 42%.So, why all this hype about content syn? That’s what we explain in this post. Insights gained through our experience supplemented with robust research inform what we say."
+}]
+
+export default Articles

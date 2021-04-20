@@ -1,0 +1,12 @@
+#root {
+    height: 100vh;
+    overflow:auto;
+    
+
+
+  }
+.react-tiger-transition--route{
+    position: relative;
+    background-color: #1976d2;
+    color:lightgray
+  }
